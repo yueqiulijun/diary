@@ -1,1 +1,10 @@
-MIPI Alliance Specification for Display Serial Interface Version
+1.  最近研究MIPI DSI Panel Linux Driver架构，于是一边啃spec性质的官方文档
+Type1
+Type2
+Type3
+Type 4
+DSI物理层
+设备电源状态转换
+
+2. 下载MIPI Alliance Specification for　Display Serial Interface
+　　中的其他资料
